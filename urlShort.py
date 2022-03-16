@@ -1,6 +1,5 @@
 
 from tkinter import *
-from turtle import color
 import pyshorteners
 # Function for short URL and set value in textbox
 def convert():
